@@ -1,0 +1,17 @@
+SET FOREIGN_KEY_CHECKS=0;
+DROP TABLE Applied_to_Order;
+DROP TABLE Applied_to_Pizza;
+DROP TABLE Base_Price;
+DROP TABLE Cust_Order;
+DROP TABLE Customer;
+DROP TABLE Delivery;
+DROP TABLE Dine_IN;
+DROP TABLE Discounts;
+DROP TABLE Dollar_off;
+DROP TABLE Has;
+DROP TABLE Percent_off;
+DROP TABLE PickUp;
+DROP TABLE Pizza;
+DROP TABLE Seat_Number;
+DROP TABLE Toppings;
+SET FOREIGN_KEY_CHECKS=1;
